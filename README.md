@@ -49,7 +49,7 @@ How to Reset a Password in Active Directory. User Dwayne Plumb forgot his passwo
 <p align="center"> 
 <br><b>Step 7: DPlump at his workstation. Now can choose his own password.
   
-<br<br><img src="https://i.imgur.com/h2Hnc59.png" height="80%" width="80%" alt="Password Reset 3"/>
+<br><img src="https://i.imgur.com/h2Hnc59.png" height="80%" width="80%" alt="Password Reset 3"/>
 </p>
 
 <!--
